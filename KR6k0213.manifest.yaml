@@ -1,0 +1,192 @@
+canonical_identifier: bkk:krp/KR6k0213/v1
+canonical_location: https://kanripo.org/bkk/KR6k0213/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 新受戒比丘六念五觀法
+  identifiers:
+    alt_id:
+    - X59n1099
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1099.xml
+    old_id: X59n1099
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0213_000.yaml, hash: 'sha256:22ad25523fed386d1d0541b3e2be35a9914aad0a65db52c1a12efde430dd7cd2'}
+  - {seq: 1, filename: KR6k0213_001.yaml, hash: 'sha256:96377017fd57bf798f843ff1be81f4ee7cdf8ab392a11673d20cc3133fdf5f62'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0213_001.markers.yaml, hash: 'sha256:f68610c7f20261620435a7604e8723ce4f943d8f19501835543caa0916abe2f5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2326
+  label: 新受戒比丘六念五觀法并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-2
+    span:
+    - body
+    - 193
+    - 193
+  label: 晨朝六念法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-3
+    span:
+    - body
+    - 241
+    - 241
+  label: 第一念知日月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-4
+    span:
+    - body
+    - 371
+    - 371
+  label: 第二念知食處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-5
+    span:
+    - body
+    - 561
+    - 561
+  label: 第三念知受戒時夏臘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-6
+    span:
+    - body
+    - 633
+    - 633
+  label: 第四念知衣鉢有無受淨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-7
+    span:
+    - body
+    - 688
+    - 688
+  label: 第五念同別食
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-8
+    span:
+    - body
+    - 723
+    - 723
+  label: 第六念康羸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-9
+    span:
+    - body
+    - 741
+    - 741
+  label: 食時五觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-10
+    span:
+    - body
+    - 1004
+    - 1004
+  label: 一計功多少量彼來處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-11
+    span:
+    - body
+    - 1206
+    - 1206
+  label: 二自忖己德行全缺多減
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-12
+    span:
+    - body
+    - 1338
+    - 1338
+  label: 三防心顯過不過三毒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-13
+    span:
+    - body
+    - 1502
+    - 1502
+  label: 四正事良藥取濟形苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-14
+    span:
+    - body
+    - 1580
+    - 1580
+  label: 五為成道業世報非意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0213_X_001-mulu-15
+    span:
+    - body
+    - 1830
+    - 1830
+  label: 出眾生食法
+  type: mulu
+  level: 1
+hash: sha256:a956cbade397e70df8fd9ee16bc35029e8e0a79ae51104c3f3babe35526edf22
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0213/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新受戒比丘六念五觀法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1099.xml
+    old_id: X59n1099
+hash: sha256:22ad25523fed386d1d0541b3e2be35a9914aad0a65db52c1a12efde430dd7cd2
