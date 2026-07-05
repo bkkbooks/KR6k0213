@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0213_000.yaml, hash: 'sha256:22ad25523fed386d1d0541b3e2be35a9914aad0a65db52c1a12efde430dd7cd2'}
-  - {seq: 1, filename: KR6k0213_001.yaml, hash: 'sha256:96377017fd57bf798f843ff1be81f4ee7cdf8ab392a11673d20cc3133fdf5f62'}
+  - {seq: 1, filename: KR6k0213_001.yaml, hash: 'sha256:ebd374edd937602fa6b0326449aabc476d1d6556f31a684e81ae717d7567a404'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0213_001.markers.yaml, hash: 'sha256:f68610c7f20261620435a7604e8723ce4f943d8f19501835543caa0916abe2f5'}
+  - {seq: 0, role: markers, filename: assets/KR6k0213_000.markers.yaml, hash: 'sha256:b386d795b4cf0604e361d5ae753d597b4d316899e0301ff9fa9c8cc0c13a0e83'}
+  - {seq: 1, role: markers, filename: assets/KR6k0213_001.markers.yaml, hash: 'sha256:ca50123be3bbd3d584c035e37e8234e63f564bbb3941f60e3c18bf49c57bbbcc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -186,7 +187,4 @@ table_of_contents:
   label: 出眾生食法
   type: mulu
   level: 1
-hash: sha256:a956cbade397e70df8fd9ee16bc35029e8e0a79ae51104c3f3babe35526edf22
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a6c564fc96dfa4656c4cca51ca4db0c1a60824f8dcbfd320685f40d9ddcb8a46
